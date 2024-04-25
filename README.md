@@ -1,2 +1,4 @@
-# Quest-es-de-l-gica-de-programa-o-
-Questões de lógica de programação resolvidas - URI/BeeCrowd
+# Questões resolvidas de lógica de programação 
+
+  - Algumas questões respondidas, da antiga plataforma URI.
+  - As resoluções se encontram em C/C++
